@@ -11,7 +11,7 @@
 - Juega!
 
 ### Como jugar
-- Click izquierod para despejar una celda
+- Click izquierdo para despejar una celda
 - Si no hay una bomba en la celda, esta se marca con el numero de bombas adyacentes en las 8 casillas adyacentes
 - Click derecho para poner una "bandera" en la celda (en caso de creer que alli hay una bomba)
 - Si despeja todas las casillas y marca todas las bombas con una bandera, gana el juego
