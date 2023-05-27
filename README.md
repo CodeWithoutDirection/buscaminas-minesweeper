@@ -10,6 +10,7 @@
 - Abrir carpeta main
 - Ejecutar main.exe
 - Juega!
+- Para reiniciar el juego, toca cerrar y volver a abrir el main.exe
 
 ### Como jugar
 - Click izquierdo para despejar una celda
