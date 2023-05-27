@@ -4,7 +4,8 @@
 *El codigo es el archivo main.py y se ejecuta con python directamente*
 
 ## Si no tiene python instalado y solo desea jugar el juego:
-- Descargar la carpeta BuscaMinas
+- Descargar el rar de buscaminas
+- Descomprimir
 - Abrir carpeta dist
 - Abrir carpeta main
 - Ejecutar main.exe
