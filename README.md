@@ -1,9 +1,9 @@
 # Busca-Minas
 **Juego de busca minas hecho en python usando pygame**
 
-*El codigo es el archivo main.py y se ejecuta con python directamente*
+*El codigo es el archivo main.py*
 
-## Si no tiene python instalado y solo desea jugar el juego:
+## Para jugar el juego:
 - Descargar el rar de buscaminas
 - Descomprimir
 - Abrir carpeta dist
