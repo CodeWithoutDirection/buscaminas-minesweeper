@@ -5,7 +5,8 @@
 
 ## Si no tiene python instalado y solo desea jugar el juego:
 - Descargar la carpeta BuscaMinas
-- Abrir dist
+- Abrir carpeta dist
+- Abrir carpeta main
 - Ejecutar main.exe
 - Juega!
 
