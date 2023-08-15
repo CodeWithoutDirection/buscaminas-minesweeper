@@ -1,4 +1,4 @@
-# Busca-Minas
+# Busca Minas
 **Juego de busca minas hecho en python usando pygame**
 
 *El codigo es el archivo main.py*
